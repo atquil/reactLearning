@@ -20,7 +20,7 @@ export default function TextArea() {
             <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"  onChange={textOnChange}></textarea>
         </div>
         <p> Output text: {text}</p>
-        <button type="button" className="btn btn-primary" onClick={textToUpperCase}>To Upper Case</button>
+        <button type="button" className="btn btn-primary" onClick={textToUpperCase}>Make Upper Case</button>
     </>
   )
 }
