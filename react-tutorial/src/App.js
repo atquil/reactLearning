@@ -6,7 +6,7 @@ import NavBar from './component/NavBar';
 function App() {
   return (
    <>
-    <NavBar navBarTitle='atquil'/>
+    <NavBar navBarTitle='Atquil'/>
    </>
   );
 }
